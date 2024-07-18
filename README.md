@@ -1,6 +1,6 @@
 # CSV Codeblock
 
-This is a plugin for Obsidian (https://obsidian.md). This plugin renders codeblocks with csv format as a tables.
+This is a plugin for Obsidian (https://obsidian.md). This plugin renders codeblocks with csv format as tables.
 
 # Usage
 
@@ -48,4 +48,14 @@ export default class ExamplePlugin extends Plugin {
 }
 ```
 
+# Changelog
+
+## v1.1 Added TSV Support
+on Jul 18, 2024
+
+Now supports `tsv` in codeblocks. Thanks mklepaczewski for the request.
+
+
+## v1.0 Initial Release
+on Sep 28, 2023
 
